@@ -39,7 +39,7 @@ export default function Home() {
        <meta name="keywords" content="Productos de limpeza, Limpieza, Detergente, Jabon, Multiuso,El Zorzal"
         />
         <meta name="robots" content="index"/>
-        <link href="https://fonts.googleapis.com/css2?family=Maven+Prodisplay=swap" rel="stylesheet"/>
+      
         <link rel="icon" href="/favicon.ico" />
       </head>
     
