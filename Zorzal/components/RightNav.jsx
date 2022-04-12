@@ -7,6 +7,7 @@ const Ul = styled.ul`
   list-style: none;
   display: flex;
   flex-flow: row nowrap;
+  z-index:8;
 
   li {
     padding: 10px 10px;
