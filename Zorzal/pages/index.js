@@ -39,6 +39,7 @@ export default function Home() {
        <meta name="keywords" content="Productos de limpeza, Limpieza, Detergente, Jabon, Multiuso,El Zorzal"
         />
         <meta name="robots" content="index"/>
+        <meta name="google-site-verification" content="4gHtY5QVb0_uijPBY047FuV9BP0SuiM6rKMbEppZV3A" />
         <link rel="icon" href="/favicon.ico" />
       </head>
     
