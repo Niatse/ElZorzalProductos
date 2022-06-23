@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://el-zorzal-productos.vercel.app/
+
+# Sitemaps
+Sitemap: https://el-zorzal-productos.vercel.app/sitemap.xml
