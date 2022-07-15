@@ -54,8 +54,11 @@ export default function Home() {
           <p className={styles.subtitulo}>Venta de detergente, multiuso, perfumol y solución blanqueadora <br/>Calidad y economía al alcance de su mano</p>
       </section>
 
-      <section id="productos">
-          <h2 className={styles.titulo}>Nuestros productos:</h2>
+      <section id="productos"><h2 className={styles.titulo}>Nuestros productos:</h2>
+        <div className={styles.cards}>
+
+        
+          
         <div className={styles.card}>
             <Image className={styles.img} src="/detergente.png" alt="Detergente"   width={300}
       height={300}  />
@@ -117,7 +120,7 @@ export default function Home() {
             <p className={styles.description}>Detergente liquido...</p>
             <p><button>$250</button></p>
           </div>
-
+          </div>
        </section>
  
 

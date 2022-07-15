@@ -14,7 +14,13 @@
    font-family: 'Poppins', sans-serif;
 }
 
-
+.cards{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: stretch;
+  justify-content: space-around;
+}
 
 .nav{
    width: 100%;
