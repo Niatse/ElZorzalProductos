@@ -2,7 +2,11 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Maven+Pro&family=Poppins&display=swap');
 
+#home{
+  background: rgb(34,193,195);
+background: linear-gradient(90deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
 
+}
 
 #brand {
   font-weight: bold;
@@ -42,7 +46,8 @@
 .titulo{
     font-size: 3em;
     text-align: center;
-    margin-top: 50px;
+    margin-top: 0px;
+    margin-bottom: 0px;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -85,21 +90,33 @@
   .description {
     color: rgb(56, 54, 54);
     font-size: 1.5em;
+    white-space: pre-line;
+
   }
-  
+  .precio{
+    white-space: pre-line;
+
+  }
+  .llamar{
+    color: #09c372;;
+  }
   .card button {
     border: none;
     outline: 0;
     padding: 12px;
     color: white;
-    background-color: #000;
+    background-color:#09c372;
+    ;
     text-align: center;
     cursor: pointer;
-    width: 50%;
+    height: auto;
+    width: 35%;
     margin-top: 10px;
     margin-bottom: 10px;
     border-radius: 20px 20px 20px;
     font-family: 'Maven Pro', sans-serif;
+    white-space: pre-line;
+
   }
 
   .card button:hover {
